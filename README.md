@@ -6,9 +6,11 @@ I have worked on a broad range of NLP tasks, including machine translation, text
 
 ## 📝 Publications
 
-- **[Building a Compact Math Corpus](#)**  
-  _To appear at the ACL (Association for Computational Linguistics), 2025._  
-Lightweight NLP resource for syntactic-semantic analysis and concept identification in mathematical texts.
+- **[Building a Compact Math Corpus](https://naloma.github.io/2025/papers/paper-5.pdf)**  
+  _In Proceedings of ESSLLI 2025 (European Summer School in Logic, Language and Information)._  
+  Lightweight NLP resource for syntactic-semantic analysis and concept identification in mathematical texts.  
+  [[Google Scholar]](https://scholar.google.com) • [[PDF]](https://naloma.github.io/2025/papers/paper-5.pdf)
+
 
 ---
 - 🔭 I am currently working on NLP applications for domain-specific content.
